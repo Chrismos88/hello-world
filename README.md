@@ -1,3 +1,11 @@
-# hello-world
-first shot
-first steps in, yew
+<DOCTYPE! html>
+<HTML>
+  <head>
+    <title># hello-world #</title>
+  </head>  
+  <body>
+    <h1>first shot</h1>
+    <p>first steps in, yew</p>
+  </body>
+</html>  
+
